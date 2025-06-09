@@ -20,4 +20,4 @@ void main() {
  // Mencetak elemen teratas dari tumpukan tanpa menghapusnya
  print('Top element: ${stack.top}');
  print('stack: $stack');
-}
+} 
